@@ -2,5 +2,5 @@
 MNIST digit classification with a Neural Network.
 
 
-###TO DO:
+### TO DO:
 Update Readme.
