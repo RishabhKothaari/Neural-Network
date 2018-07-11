@@ -27,3 +27,7 @@ Neural network structure: The neural network takes in (28x28) 784 inputs, one hi
 0.1|0|100|[99.6%](https://github.com/rishab-pdx/Neural-Network/blob/master/plots/exp-2-alpha-0.png)|[97.7%](https://github.com/rishab-pdx/Neural-Network/blob/master/plots/exp-2-alpha-0.png)|
 0.1|0.25|100|[99.6%](https://github.com/rishab-pdx/Neural-Network/blob/master/plots/exp-2-alpha-0.25.png)|[97.7%](https://github.com/rishab-pdx/Neural-Network/blob/master/plots/exp-2-alpha-0.25.png)|
 0.1|0.5|100|[99.6%](https://github.com/rishab-pdx/Neural-Network/blob/master/plots/exp-2-alpha-0.5.png)|[97.6%](https://github.com/rishab-pdx/Neural-Network/blob/master/plots/exp-2-alpha-0.5.png)|
+
+### Dependencies
+1. Python
+2. Matplotlib
